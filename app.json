@@ -9,6 +9,6 @@
             "required": true        
         }
     },
-    "repository": "https://github.com/gohomess/xr home",
+    "repository": "https://github.com/gohomess/xr-home",
     "stack": "container"
 }
